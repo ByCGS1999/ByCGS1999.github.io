@@ -1,5 +1,5 @@
-127.0.0.1 doodoo.xyz,
-127.0.0.1 www.doodoo.xyz,
-127.0.0.1 data.doodoo.xyz,
-127.0.0.1 assetgame.doodoo.xyz,
-127.0.0.1 api.doodoo.xyz
+143.131.210.8 doodoo.xyz,
+143.131.210.8 www.doodoo.xyz,
+143.131.210.8 data.doodoo.xyz,
+143.131.210.8 assetgame.doodoo.xyz,
+143.131.210.8 api.doodoo.xyz
