@@ -1,5 +1,5 @@
-143.131.210.8 doodoo.xyz,
-143.131.210.8 www.doodoo.xyz,
-143.131.210.8 data.doodoo.xyz,
-143.131.210.8 assetgame.doodoo.xyz,
-143.131.210.8 api.doodoo.xyz
+143.131.246.91 doodoo.xyz,
+143.131.246.91 www.doodoo.xyz,
+143.131.246.91 data.doodoo.xyz,
+143.131.246.91 assetgame.doodoo.xyz,
+143.131.246.91 api.doodoo.xyz
